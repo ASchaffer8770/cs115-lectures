@@ -1,4 +1,4 @@
-entrypoint = "main.py"
+entrypoint = "HW6_Read_Intro/testing.py"
 modules = ["python-3.11"]
 
 [nix]
